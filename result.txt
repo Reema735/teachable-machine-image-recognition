@@ -1,0 +1,1 @@
+Prediction: 1 butterfly | Confidence: 1.000
